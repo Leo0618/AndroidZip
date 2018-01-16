@@ -21,3 +21,4 @@ android {
 dependencies {
     compile 'com.android.support:appcompat-v7:26.+'
 }
+apply from: '../bintray.gradle'
